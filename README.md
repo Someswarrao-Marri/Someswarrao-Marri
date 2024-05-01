@@ -10,30 +10,18 @@ Throughout my career, I have demonstrated a proven track record in designing and
 
 Key Points:
 - Proficient in Spark applications with Databricks (Spark-SQL, PySpark) for data extraction, transformation, and aggregation, enabling in-depth analysis of diverse datasets and valuable customer usage insights.
-
-Led Azure Databricks notebooks for data extraction from Azure Data Lake, applying PySpark and Spark SQL transformations, and integrating Delta Lake tables for enhanced data querying.
-
-Extensive experience in writing ad-hoc queries in Azure Databricks to support business stakeholders, facilitating real-time data access and data-driven decision-making.
-
-Expertise in designing and implementing data ingestion pipelines and processes using Azure Data Factory, Azure Databricks, and Azure Data Lake Store, resulting in enhanced data availability and reduced data processing time by 30%.
-
-Proficient in creating Azure Functions, and effectively integrated them into Azure Data Factory pipelines, automating data processing tasks and enhancing data orchestration workflows.
-
-Implemented standard data model tables, enabling seamless migration of legacy data systems to modern data storage, resulting in improved data accuracy and accessibility. This facilitated efficient data querying and analysis, leading to a 40% reduction in data processing time and 30% faster access to critical business insights.
-
-Extensive expertise in Microsoft SQL Server and SQL Server Integration Services (SSIS), creating robust database schema objects and writing complex SQL queries or Stored Procedures with proper error handling techniques.
-
-Skilled in optimizing and tuning SQL queries for better performance, resulting in faster data processing and enhanced system efficiency.
-
-Implemented dynamic SQL queries and automated manual tasks, resulting in a 50% reduction in manual data processing efforts and enhanced data accuracy.
-
-Spearheaded the development of SSIS ETL packages for data extraction, transformation, and loading from various sources, including flat files, CSV, and Excel files, reducing data load times by 40%.
-
-Recognized for exceptional problem-solving skills and a proactive approach in resolving data-related issues, leading to a 25% improvement in data quality and system performance.
-
-Successfully created data sources for data visualization tools like Power BI, Tableau, and Qlik and User Interfaces, enabling data-driven insights and interactive data exploration for business users, leading to a 25% improvement in data-driven decision-making.
-
-Developed automated data validation scripts, reducing data errors by 25% and improving data accuracy for claims processing.
+- Led Azure Databricks notebooks for data extraction from Azure Data Lake, applying PySpark and Spark SQL transformations, and integrating Delta Lake tables for enhanced data querying.
+- Extensive experience in writing ad-hoc queries in Azure Databricks to support business stakeholders, facilitating real-time data access and data-driven decision-making.
+- Expertise in designing and implementing data ingestion pipelines and processes using Azure Data Factory, Azure Databricks, and Azure Data Lake Store, resulting in enhanced data availability and reduced data processing time by 30%.
+- Proficient in creating Azure Functions, and effectively integrated them into Azure Data Factory pipelines, automating data processing tasks and enhancing data orchestration workflows.
+- Implemented standard data model tables, enabling seamless migration of legacy data systems to modern data storage, resulting in improved data accuracy and accessibility. This facilitated efficient data querying and analysis, leading to a 40% reduction in data processing time and 30% faster access to critical business insights.
+- Extensive expertise in Microsoft SQL Server and SQL Server Integration Services (SSIS), creating robust database schema objects and writing complex SQL queries or Stored Procedures with proper error handling techniques.
+- Skilled in optimizing and tuning SQL queries for better performance, resulting in faster data processing and enhanced system efficiency.
+- Implemented dynamic SQL queries and automated manual tasks, resulting in a 50% reduction in manual data processing efforts and enhanced data accuracy.
+- Spearheaded the development of SSIS ETL packages for data extraction, transformation, and loading from various sources, including flat files, CSV, and Excel files, reducing data load times by 40%.
+- Recognized for exceptional problem-solving skills and a proactive approach in resolving data-related issues, leading to a 25% improvement in data quality and system performance.
+- Successfully created data sources for data visualization tools like Power BI, Tableau, and Qlik and User Interfaces, enabling data-driven insights and interactive data exploration for business users, leading to a 25% improvement in data-driven decision-making.
+- Developed automated data validation scripts, reducing data errors by 25% and improving data accuracy for claims processing.
 
 - 🌱 Currently learning: **[new technologies or skills you're currently learning]**
 - 🔭 Working on: **[current projects or side-projects]**
