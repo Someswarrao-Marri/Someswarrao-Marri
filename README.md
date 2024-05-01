@@ -5,10 +5,11 @@
 ## About Me 🚀
 
 Data engineer with 7.6 years of experience in Azure Data Factory, Azure Databricks, Azure Data Lake Storage, T-SQL and SSIS, seeking to leverage my expertise in data engineering and data warehousing to contribute to the success of an emerging team in a professional organization.
+
 Throughout my career, I have demonstrated a proven track record in designing and implementing data solutions that drive business insights and support critical decision-making processes. I possess in-depth knowledge of data warehouse concepts, including data modelling, normalization, de-normalization, OLAP, and OLTP, which allows me to architect scalable and efficient data solutions that cater to diverse business needs.
+
 Key Points:
-
-Proficient in Spark applications with Databricks (Spark-SQL, PySpark) for data extraction, transformation, and aggregation, enabling in-depth analysis of diverse datasets and valuable customer usage insights.
+- Proficient in Spark applications with Databricks (Spark-SQL, PySpark) for data extraction, transformation, and aggregation, enabling in-depth analysis of diverse datasets and valuable customer usage insights.
 
 Led Azure Databricks notebooks for data extraction from Azure Data Lake, applying PySpark and Spark SQL transformations, and integrating Delta Lake tables for enhanced data querying.
 
